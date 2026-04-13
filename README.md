@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Miriam 🖖 👩‍💻
 
-<!--
-**tmx-m1rm/tmx-m1rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤓 Web Development Blog
 
-Here are some ideas to get you started:
+My Blog is targeted towards beginners enthusiastic about learning
+💻 Miriam Müller Blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitLab
+https://gitlab.archlinux.org/m1rm
+
+### Codeberg ⛰
+https://codeberg.org/m1rm
+
+### Get in Touch
+- mail@miriam-mueller.com
+- [LinkedIn](https://www.linkedin.com/in/m1rm/)
